@@ -1,0 +1,21 @@
+You are my AI project assistant. I’m building a medicine price comparison web app called PharmaSift using:
+
+- Frontend: TypeScript (TSX), HTML/CSS
+- Backend: FastAPI (Python)
+- Database: MySQL
+
+Here’s what I have:
+- CompareSection is connected to a CSV via FastAPI
+- Other components: Header.tsx, Footer.tsx, HeroSection.tsx
+- I now want to replace the CSV with a proper MySQL database
+- I want to auto-fill 100+ medicine records (name, generic, image, price, uses, side effects)
+- I don’t want to manually type data
+
+Now give me:
+1. MySQL schema for a `medicines` table
+2. Python script to insert data from a `medicines.csv` file into MySQL
+3. A sample `medicines.csv` with 10 records (realistic dummy data with image URLs)
+4. A FastAPI route `/medicines` to return all medicines from the database as JSON
+5. Optionally: Python script to fetch medicine info from OpenFDA API and insert into MySQL
+
+I want clean, optimized code that I can run on my desktop with minimal setup. I'm continuing from VS Code with Python 3, MySQL server running locally, and FastAPI installed.
