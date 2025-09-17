@@ -1,0 +1,1 @@
+- Frontend: TypeScript (TSX), HTML/CSS
