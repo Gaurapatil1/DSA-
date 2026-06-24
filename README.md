@@ -16,9 +16,14 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
