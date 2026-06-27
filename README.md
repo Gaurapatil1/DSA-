@@ -19,6 +19,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurapatil1/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Gaurapatil1/DSA-/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurapatil1/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Gaurapatil1/DSA-/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
