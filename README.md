@@ -20,6 +20,7 @@
 | [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Gaurapatil1/DSA-/tree/master/0724-find-pivot-index) |
+| [0976-largest-perimeter-triangle](https://github.com/Gaurapatil1/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurapatil1/DSA-/tree/master/0002-add-two-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/Gaurapatil1/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -52,4 +54,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Gaurapatil1/DSA-/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Gaurapatil1/DSA-/tree/master/0976-largest-perimeter-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Gaurapatil1/DSA-/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
