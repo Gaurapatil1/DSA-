@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Gaurapatil1/DSA-/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Gaurapatil1/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
