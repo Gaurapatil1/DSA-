@@ -12,6 +12,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurapatil1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Gaurapatil1/DSA-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Gaurapatil1/DSA-/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Gaurapatil1/DSA-/tree/master/0010-regular-expression-matching) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurapatil1/DSA-/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Gaurapatil1/DSA-/tree/master/0010-regular-expression-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurapatil1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Gaurapatil1/DSA-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
