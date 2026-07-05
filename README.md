@@ -25,6 +25,7 @@
 | [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Gaurapatil1/DSA-/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/Gaurapatil1/DSA-/tree/master/0766-toeplitz-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurapatil1/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Gaurapatil1/DSA-/tree/master/0010-regular-expression-matching) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/Gaurapatil1/DSA-/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
