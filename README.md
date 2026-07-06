@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurapatil1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -17,12 +18,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurapatil1/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Gaurapatil1/DSA-/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Gaurapatil1/DSA-/tree/master/0766-toeplitz-matrix) |
@@ -59,6 +62,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurapatil1/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurapatil1/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Sliding Window
 |  |
