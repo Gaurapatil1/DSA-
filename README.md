@@ -14,6 +14,7 @@
 | [0006-zigzag-conversion](https://github.com/Gaurapatil1/DSA-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Gaurapatil1/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Gaurapatil1/DSA-/tree/master/0010-regular-expression-matching) |
+| [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
