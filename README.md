@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurapatil1/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Gaurapatil1/DSA-/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gaurapatil1/DSA-/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -72,6 +74,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gaurapatil1/DSA-/tree/master/0011-container-with-most-water) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurapatil1/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
