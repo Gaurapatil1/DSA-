@@ -19,6 +19,7 @@
 | [0020-valid-parentheses](https://github.com/Gaurapatil1/DSA-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
+| [1544-make-the-string-great](https://github.com/Gaurapatil1/DSA-/tree/master/1544-make-the-string-great) |
 ## Counting
 |  |
 | ------- |
@@ -101,4 +102,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurapatil1/DSA-/tree/master/0020-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/Gaurapatil1/DSA-/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
