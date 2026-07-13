@@ -30,6 +30,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurapatil1/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Gaurapatil1/DSA-/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Gaurapatil1/DSA-/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurapatil1/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Gaurapatil1/DSA-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Gaurapatil1/DSA-/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Gaurapatil1/DSA-/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
