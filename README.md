@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Gaurapatil1/DSA-/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurapatil1/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Gaurapatil1/DSA-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Gaurapatil1/DSA-/tree/master/0190-reverse-bits) |
 ## Prefix Sum
 |  |
 | ------- |
