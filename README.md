@@ -18,6 +18,7 @@
 | [0012-integer-to-roman](https://github.com/Gaurapatil1/DSA-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Gaurapatil1/DSA-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/Gaurapatil1/DSA-/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/Gaurapatil1/DSA-/tree/master/1544-make-the-string-great) |
 ## Counting
@@ -60,6 +61,7 @@
 | [0007-reverse-integer](https://github.com/Gaurapatil1/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gaurapatil1/DSA-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gaurapatil1/DSA-/tree/master/0012-integer-to-roman) |
+| [0412-fizz-buzz](https://github.com/Gaurapatil1/DSA-/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurapatil1/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
@@ -110,4 +112,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurapatil1/DSA-/tree/master/0020-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Gaurapatil1/DSA-/tree/master/1544-make-the-string-great) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Gaurapatil1/DSA-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
