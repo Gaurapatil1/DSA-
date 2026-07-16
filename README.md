@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurapatil1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Gaurapatil1/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Gaurapatil1/DSA-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Gaurapatil1/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Gaurapatil1/DSA-/tree/master/0010-regular-expression-matching) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gaurapatil1/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Gaurapatil1/DSA-/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
@@ -101,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gaurapatil1/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Gaurapatil1/DSA-/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Gaurapatil1/DSA-/tree/master/0053-maximum-subarray) |
 ## Matrix
