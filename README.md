@@ -22,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/Gaurapatil1/DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Gaurapatil1/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Gaurapatil1/DSA-/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurapatil1/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Gaurapatil1/DSA-/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
@@ -54,6 +55,7 @@
 | [0011-container-with-most-water](https://github.com/Gaurapatil1/DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gaurapatil1/DSA-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Gaurapatil1/DSA-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurapatil1/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Gaurapatil1/DSA-/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurapatil1/DSA-/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurapatil1/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
