@@ -41,6 +41,7 @@
 | [0014-longest-common-prefix](https://github.com/Gaurapatil1/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gaurapatil1/DSA-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Gaurapatil1/DSA-/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Gaurapatil1/DSA-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Gaurapatil1/DSA-/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Gaurapatil1/DSA-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurapatil1/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Gaurapatil1/DSA-/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
