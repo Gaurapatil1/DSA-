@@ -40,6 +40,7 @@
 | [0011-container-with-most-water](https://github.com/Gaurapatil1/DSA-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Gaurapatil1/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gaurapatil1/DSA-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gaurapatil1/DSA-/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Gaurapatil1/DSA-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Gaurapatil1/DSA-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Gaurapatil1/DSA-/tree/master/0053-maximum-subarray) |
@@ -55,6 +56,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gaurapatil1/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Gaurapatil1/DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gaurapatil1/DSA-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gaurapatil1/DSA-/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Gaurapatil1/DSA-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurapatil1/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gaurapatil1/DSA-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gaurapatil1/DSA-/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurapatil1/DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Sliding Window
