@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurapatil1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gaurapatil1/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gaurapatil1/DSA-/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Gaurapatil1/DSA-/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Gaurapatil1/DSA-/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -23,6 +24,7 @@
 | [0014-longest-common-prefix](https://github.com/Gaurapatil1/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Gaurapatil1/DSA-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurapatil1/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/Gaurapatil1/DSA-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Gaurapatil1/DSA-/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Gaurapatil1/DSA-/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurapatil1/DSA-/tree/master/1189-maximum-number-of-balloons) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurapatil1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Gaurapatil1/DSA-/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
